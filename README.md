@@ -1,4 +1,4 @@
-# VHDL_VLSI_PROJECT
+# VHDL VLSI PROJECT SUMMARY
 
 **VHDL (VHSIC Hardware Description Language)** is a formal notation used to describe the **structure and behavior of digital systems**. It allows designers to model hardware at various levels of abstraction, utilizing an **Entity** to define the interface (input/output ports) and an **Architecture** to specify the internal logic. VHDL is widely used for **RTL synthesis** and simulation, relying on standardized libraries like `IEEE.STD_LOGIC_1164` to represent digital signals.
 
