@@ -6,3 +6,6 @@ This project features the RTL implementation of an Exclusive-OR (XOR) gate using
 An XOR gate is a digital logic gate that gives a true output ('1') whenever the number of true inputs is odd. For a 2-input XOR gate, the output is high if one, and only one, of the inputs is high. If both inputs are the same (both '0' or both '1'), the output is low.
 
 ### Schematic Diagram and Output waveform of XOR gate:
+
+![](https://github.com/hossain190503/VHDL_VLSI_PROJECT/blob/main/VHDL_VLSI_PROJECT/XOR/img/XOR.png?raw=true)
+![](https://github.com/hossain190503/VHDL_VLSI_PROJECT/blob/main/VHDL_VLSI_PROJECT/XOR/img/XOR_SIG.png?raw=true)
