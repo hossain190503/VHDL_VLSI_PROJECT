@@ -5,7 +5,7 @@ This project features the RTL implementation of basic 2-input AND and OR gates u
 ## Theory and Functional Logic
 AND and OR gates are the core components of combinational logic. An AND gate produces a high output ('1') only when both inputs are high. Conversely, an OR gate produces a high output if at least one of its inputs is high. These gates are implemented using simple Boolean expressions within the VHDL architecture.
 
-### Schematic Diagram and Output waveform of ADN gate:
+### Schematic Diagram and Output waveform of AND gate:
 ![](https://github.com/hossain190503/VHDL_VLSI_PROJECT/blob/main/VHDL_VLSI_PROJECT/2_InpuAND_OR_Gates/img/2_AND.png?raw=true)
 
 ### Schematic Diagram and Output waveform of OR gate.
