@@ -1,4 +1,4 @@
-#4-input NAND and NOR Gates
+# 4-input NAND and NOR Gates
 
 ## Description
 This project focuses on the design and implementation of 4-input NAND and NOR gates. Developed with a Behavioral modeling style, this project shows how to handle multiple inputs within a single logic block to simplify complex circuit designs. The design is verified through a comprehensive stimulus process in the testbench to ensure functional accuracy across all 16 input states.
