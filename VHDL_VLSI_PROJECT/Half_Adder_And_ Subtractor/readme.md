@@ -1,3 +1,4 @@
+# Half-Adder and Half-Subtractor
 ## Description
 This repository contains the RTL design of a Half-Adder and Half-Subtractor. Developed with a Behavioral modeling style, these circuits represent the most basic arithmetic units in digital electronics. The project demonstrates how to compute the sum and carry for two single bits, as well as the difference and borrow for subtraction, serving as the foundation for multi-bit arithmetic units.
 
