@@ -8,4 +8,4 @@ A 4-bit Adder/Subtractor is a fundamental arithmetic unit in digital computing. 
 ### Schematic Diagram and Output waveform of 4-Bit Adder and Subtractor logic gate:
 
 ![](https://github.com/hossain190503/VHDL_VLSI_PROJECT/blob/main/VHDL_VLSI_PROJECT/4_Bit_Subtractor/img/4_ADD_SUB.png?raw=true)
-![](
+![](https://github.com/hossain190503/VHDL_VLSI_PROJECT/blob/main/VHDL_VLSI_PROJECT/4_Bit_Subtractor/img/4_ADD_SUB_SIG.png?raw=true)
