@@ -3,3 +3,13 @@ This repository contains the RTL design of a Half-Adder and Half-Subtractor. Dev
 
 ## Theory and Functional Logic
 The Half-Adder is a combinational circuit that adds two single-bit binary numbers, producing a Sum (XOR logic) and a Carry (AND logic). The Half-Subtractor performs a subtraction between two bits, producing a Difference (XOR logic) and a Borrow (NOT-AND logic). These units do not account for carry or borrow from previous stages.
+
+ ### Schematic Diagram and Output waveform of Half-Adder
+
+![](https://github.com/hossain190503/VHDL_VLSI_PROJECT/blob/main/VHDL_VLSI_PROJECT/Half_Adder_And_%20Subtractor/img/HALF_ADD.png?raw=true)
+![](https://github.com/hossain190503/VHDL_VLSI_PROJECT/blob/main/VHDL_VLSI_PROJECT/Half_Adder_And_%20Subtractor/img/HALF_ADD_SIG.png?raw=true)
+
+### Schematic Diagram and Output waveform of Half-Subtractor
+
+![](https://github.com/hossain190503/VHDL_VLSI_PROJECT/blob/main/VHDL_VLSI_PROJECT/Half_Adder_And_%20Subtractor/img/HLF_SUB.png?raw=true)
+![](https://github.com/hossain190503/VHDL_VLSI_PROJECT/blob/main/VHDL_VLSI_PROJECT/Half_Adder_And_%20Subtractor/img/HALF_SUB_SIG.png?raw=true)
