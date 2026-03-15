@@ -1,3 +1,4 @@
+# 2-input AND and OR Gates
 ## Description
 This project features the RTL implementation of basic 2-input AND and OR gates using VHDL. Developed with a Behavioral modeling style, the design demonstrates the fundamental logic operations required for decision-making in digital circuits. The codebase is optimized for synthesis and includes a testbench to verify the output against all possible input combinations (00, 01, 10, 11).
 
